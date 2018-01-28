@@ -1,0 +1,5 @@
+<view class='container'>
+<map id='mapId' longitude='{{longitude}}' latitude='{{latitude}}' 
+show-location controls='{{controls}}' 
+bindcontroltap='bindcontrol'></map> 
+</view>
